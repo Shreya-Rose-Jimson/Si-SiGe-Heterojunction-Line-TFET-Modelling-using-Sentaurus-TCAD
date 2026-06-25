@@ -101,6 +101,5 @@ Spatial distributions of tunneling-related quantities were analyzed to identify 
 
 Device dimensions and doping parameters were adapted from published literature on Si/SiGe heterojunction Line TFETs. This repository contains an independent TCAD implementation and analysis of the device structure.
 S. Panwar, S. Srivastava, M. Shashidhara and A. Acharya, "Performance Evaluation of High-κ Dielectric Ferro-Spacer Engineered Si/SiGe Hetero-Junction Line TFETs: A TCAD Approach," in IEEE Transactions on Dielectrics and Electrical Insulation, vol. 30, no. 3, pp. 1066-1071, June 2023, doi: 10.1109/TDEI.2023.3266413.
-keywords: {Logic gates;Tunneling;Performance evaluation;Junctions;Semiconductor process modeling;TFETs;Epitaxial layers;Band-to-band tunneling (BTBT);ferroelectric (FE) spacer;high-κ dielectrics;line-tunnel field-effect transistor (L-TFET);remanent polarization;saturation polarization;technology computer-aided design (TCAD)},
 
 
